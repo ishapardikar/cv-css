@@ -1,0 +1,45 @@
+.center {
+    text-align: center;
+    font-style: normal ;
+    font-size: 50px;
+    color: grey;
+    font-weight:bold;
+    border: 3px solid rgb(219, 210, 210);
+
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  } 
+
+.student {
+    color: rgb(33, 33, 192);
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.location {
+     text-align: center;
+ }
+
+p6 {
+     text-decoration: underline;
+ }
+
+p9 {
+    text-decoration: underline;
+}
+p0 {
+    text-decoration: underline;
+}
+p7 {
+    text-decoration: underline;
+}
+p10 {
+    text-decoration: underline;
+}
+ p0 {
+     text-decoration: underline;
+ }
